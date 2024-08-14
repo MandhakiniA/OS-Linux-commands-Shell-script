@@ -1292,6 +1292,11 @@ else
 fi
 ```
 ## OUTPUT 
+~~~
+Enter the number
+121
+Number is palindrome
+~~~
 
 
 # RESULT:
